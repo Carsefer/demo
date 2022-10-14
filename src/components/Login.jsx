@@ -51,7 +51,7 @@ export default function Login() {
               }
               return errors;
             }}
-            onSubmit={({ resetForm }) => {
+            onSubmit={(values, { resetForm }) => {
               resetForm();
               alert("Sucess");
             }}

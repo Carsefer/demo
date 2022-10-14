@@ -11,6 +11,12 @@
       "password": "123Veterinaro",
       "country": "Antigua and Barbuda",
       "id": 2
+    },
+    {
+      "email": "carlos@gmail.com",
+      "password": "Veterinario12",
+      "country": "Azerbaijan",
+      "id": 3
     }
   ]
 }
