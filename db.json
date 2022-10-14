@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "email": "1234asr@gmail.com",
+      "password": "123Veter",
+      "country": "Guyana",
+      "id": 1
+    },
+    {
+      "email": "carlosm@gmail.com",
+      "password": "123Veterinaro",
+      "country": "Antigua and Barbuda",
+      "id": 2
+    }
+  ]
+}
